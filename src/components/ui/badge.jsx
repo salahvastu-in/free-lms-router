@@ -1,0 +1,1 @@
+export function Badge({children}){ return <span className="inline-block text-xs px-2 py-1 rounded bg-gray-200">{children}</span>}
